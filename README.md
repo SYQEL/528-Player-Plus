@@ -5,7 +5,7 @@
 **528 Player Plus** is an advanced music player that **retunes any local audio file in real-time** to **528 Hz and other Solfeggio Frequencies**, allowing you to experience music that resonates with harmony, healing, and transformation.  
 
 🔥 **Key Features:**  
-- ✅ **Real-Time Audio Retuning** – Instantly convert any track to **528 Hz, 432 Hz, 396 Hz**, and more.  
+- ✅ **Real-Time Audio Retuning** – Instantly convert any track to **528 Hz.  
 - ✅ **Lossless & High-Quality Audio Support** – Play **FLAC, WAV, MP3**, and other formats.  
 - ✅ **Custom Frequency Adjustments** – Tailor your audio experience to your needs.  
 - ✅ **Simple & Intuitive Interface** – Designed for effortless music playback.  
